@@ -1,0 +1,14 @@
+   {
+      "sign": "street",
+      "location": "front",
+      "handshape": {
+        "dominant": "B",
+        "passive": "B"
+      },
+      "palm-orientation": {
+        "left-hand": "right",
+        "right-hand": "left"
+      },
+      "movement": "away",
+      "facial-expression": ""
+    }
