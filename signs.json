@@ -1,14 +1,80 @@
    {
-      "sign": "street",
+    "signs": [ 
+          {
+       "name": "street",
+       "location": "front",
+       "handshape": {
+         "dominant": "B",
+         "passive": "B" 
+         },
+       "palm-orientation": {
+         "dominant": "inside",
+         "passive": "inside"  },
+         "movement": "away-front",
+          },
+          {
+      "name": "abandon",
       "location": "front",
       "handshape": {
-        "dominant": "B",
-        "passive": "B"
+        "dominant": "5",
+        "passive": "5"
       },
       "palm-orientation": {
-        "left-hand": "right",
-        "right-hand": "left"
+        "dominant": "inside",
+        "passive": "outside"
       },
-      "movement": "away",
-      "facial-expression": ""
+      "movement": "away-side",
+         }
+  ], 
+    "family-signs": [
+            {
+      "name": ["male", "man"],
+      "location": "forehead",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+         }, 
+         {
+      "name": ["female", "woman", "lady"],
+      "location": "forehead",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+         }
+    ],
+    "words":
+      {
+        "family": [
+          "boy, girl, son, daughter, father/dad/daddy, mother/mom/mommy, grandfather/granddad/granddaddy, grandmother/grandma, brother, sister, marry, husband, wife, engagement (to be married), wedding, divorce, in-law, stepmother/stepfather/etc, uncle, aunt, nephew, niece, cousin, family, baby/infant/child, child/children, kid (informal), twins, adults, parents, generation/descendants/ancestors/posterity, couple"
+        ],
+        "pronouns-question-words-endings": [
+          "I, We/Us, You, They/Them/Those/These, This, My/Mine, His/Her/Hers, Their/Theirs, Our, Your, Your Own, Self/Myself, Ourselves, Yourself/Himself/Herself/Themselves/Itself, Each/every, someone/somebody/something, any, anyone/anybody, anything, everybody/everyone, other/another, each other/one another/associate/socialize/fellowship/interact, that, who, which, whether, how, what, why, when, where, whatever/whoever/etc, a/an/the (only used in manually coded english systems, -er, -est, person ending, past tense (finished), un-/im-/in-/dis-, pre-, post-"
+        ],
+        "time": [
+          "time, time (as in era), sunrise/dawn/sunset, day, now/currently, today, daily/every day, morning, noon, afternoon, night/tonight/every night/last night, all night/overnight, early, late/not yet, tomorrow, yesterday, forever/everlasting/eternal, still/yet, hour, minute/second, week/weekly, next week/last week, month/monthly, year, next year/last year/annual, recently/a little while ago/just/lately, after a while/later, future/by and by/later/someday, past/ago/last/previous/former/used to/was/were, will/shall/would, is/am/are/be (delete since not asl?), again/repeat/often, then, regular(ly), faithful(ly), once, twice/double, sometimes/occasionally/once in a while, until, next, your turn/take turns, during/while, since/all along/ever since/from/has been, sunday, monday, tuesday, wednesday, thursday, friday, saturday"
+        ],
+        "mental-action": [
+          "mind/mental/brain, know/knowledge, don't know/didn't know, remember, forget, memorize, remind, for, because (since, for), think/thoughts/meditate/consider, reason, wonder/concern, mean/intend/purpose, clever/brilliant/smart/intelligent/bright, ignorant, stupid/dumb (informal), wise/wisdom, philosophy, hope/expect, idea, suppose, opinion, concept, invent/devise/make up/create, agree/correspond, disagree, enemy/foe/opponent, understand/comprehend, misunderstand, problem, worry/trouble/care/anxious, burden/bear/fault/obligated/responsibility, pressure, conflict/cross-purposes/clash, trust/confidence, faith, believe, don't believe/skeptical/doubt, doubt, surprise/astonished/amazed, seem/appear/look/apparently, compare, obey/obedience, disobey, decide/determine/resolve/make up your mind, if, evaluate, or/either/neither, all right/right, experience, expert/skillful/proficient/competent/experienced, prove/proof/evidence, advise/advice/counsel/affect/influence, influence (over more than one), attention/concentrate/focus, imagination, theory, fiction/fantasy, foolish/silly/absurd/ridiculous, careless, don't care, refuse/won't, stubborn/obstinate, rebel/strike, goal/aim/objective, guess, habit/custom/accustomed, usually, tradition, but/however, join/unite/of, connection/combine/belong to/relationship/association/link/apply (relate to), cooperation/united, disconnect/release/let go, not/don't/doesn't/didn't, no matter/nevertheless/anyhow/in spite of/regardless/even though/though/although/doesn't matter/anyway, honor, respect, inform/information/news/notify, suspect/suspicion/suspicious, dream, vision, puzzled, fool, deceive/betray/trick, crazy, fouled up/bungled/topsy-turvy/confused, take advantage of, realize, resemble, willpower, a strong will"
+        ],
+        "emotion-feeling": ["love/dear, i love you, hate/detest/despise, like, please/pleasure/enjoy/like, happy/glad/rejoice/joy, sad/dejected/sorrowful/downcast, laugh, smile/cheerful/pleasant/friendly, sorry/regret/apologize, cry/weep/tears, cross/grouchy, anger/wrath, boiling/burning (in anger), blowup/blowing one's top, peace, afraid/scared/frightened/terrify, fear/dread, suffering/agony, patient/endure/bear/suffer/put up with/stand, grief/crushed, shocked/dumbfounded, appreciate, feel/sensation, mercy/pity/compassion/sympathy, feel hurt, excited/thrilled/stimulated, emotion, discouraged/disappointed, lonely/lonesome, inspired, depressed, enthusiastic/eager/zealous/industrious/anxious, frustrated, humble/meek, ashamed/shame, embarrass/bashful/shy, blush, flirt, kiss, heart, valentine, kind/gracious, character, personality, attitude, tough/rough/mean, want/desire/longing, don't want, wish, rather/prefer, comfortable/comfort, satisfy/content/relieved, complain/object/protest/grievance/gripe/mind, discontent/dissatisfied/disgusted/aggravate, pride/proud/arrogant, boast/brag, vain/vanity, selfish, jealous, envy, conscience/guilty, confess/admit, tend/tendency/inclined toward, revenge/get even, unfair/not fair, courageous/brave"
+        ],
+        "people-occupations-money": ["people, person/personal, individual, friend, group/class/community/organization/department/society/team, character/role, neighbor, neighborhood, sweetheart/girlfriend/boyfriend, bachelor, scouts, police/cop/security, thief/robber, hypocrite/imposter, soldier/army, sailor, war/battle, king/queen/prince/princess/emperor, kingdom, crown/diadem, reign/rule/control/run/in charge of/conduct/manage/govern/directing/discipline/reins, captain/chairman/officer/boss, president/superintendent, principal, assistant/aide, secretary, treasurer, work/labor/function, business, duty, busy, engagement/appointment/reservation, situation/environment/circumstance, opportunity, hire, fired, dismissed/laid off, build, machine/factory/motor/engine, paint, picture/photograph, camera/take a picture, print/publish/newspaper, buy/shopping/purchase, sell/store/sale, pay/payment, cost/price/charge/fine/tax, subscribe/draw (compensation), money/funds, rich/wealthy, poor, dollars, cents, coins, change, credit card, check, deposit, ATM card (swiping), profit/benefit/advantage, earn/income, spend/waste, save (as saving money or reserving something), owe/debt/due/afford, borrow/lend/loan, expensive, cheap, beg, broke"
+        ],
+        "physical-movement-travel": [
+          "stand, fall, fall (tumbling), slide/slip, lie/recline, getting under the covers, get up/arise, dance, jump, climb, kneel, drown/sink, sit/chair, restless/toss and turn, "
+        ]
+      }
+
     }

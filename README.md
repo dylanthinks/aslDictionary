@@ -27,19 +27,19 @@ A) learning Blender to make 3D hands and models, faces/people later. I do know t
 
 B) developing JSON dictionary of signs, using the 5 parameters as key/value pairs. 
 
-  example: 
+    example: 
       {
-      "sign": "street",
-      "location": "front",
-      "handshape": {
-        "dominant": "B",
-        "passive": "B" },
-      "palm-orientation": {
-        "left-hand": "right",
-        "right-hand": "left"  },
-      "movement": "away",
-      "facial-expression": ""
-    }
+        "sign": "street",
+        "location": "front",
+       "handshape": {
+         "dominant": "B",
+         "passive": "B" },
+       "palm-orientation": {
+         "left-hand": "right",
+          "right-hand": "left"  },
+        "movement": "away",
+       "facial-expression": ""
+       }
 
 This JSON object stores a sign for the word "street". The sign is done in front of you, with both hands flat in a "B" handshape facing each other (sideways, left facing right / right facing left) and moves away from the signer. It's the entry for "street". The idea is that somewhere down the road, this evolves to become a resource where 3D models can be instructed via Unity or some JS => 3D process. 
 
