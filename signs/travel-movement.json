@@ -1,0 +1,37 @@
+    {
+ "words": 
+        {
+ "physical-movement-travel": [
+          "stand, fall, fall (tumbling), slide/slip, lie/recline, getting under the covers, get up/arise, dance, jump, climb, kneel, drown/sink, sit/chair, restless/toss and turn, rise/be seated, walk, run, escape/run away, march, kick, awkward/clumsy, stray/deviate/divert/off the point, pass, follow/follower/disciple, chase, lead/guide, depart/leave/withdraw", 
+           {
+      "name": ["abandon", "leave", "neglect"],
+      "location": "front",
+      "handshape": {
+        "dominant": "5",
+        "passive": "5"
+      },
+      "palm-orientation": {
+        "dominant": "inside",
+        "passive": "outside"
+      },
+      "movement": "away",
+      "example": ""
+         },
+         "arrive/reach/get to, hurry, travel/trip/journey, travel around/hunt, vacation/idle/holiday/retire, visit, suitcase, automobile/car/drive, ride, get in/get out/remove oneself, collision/accident, flat tire, gasoline, parking (and location or movement of a vehicle), traffic, 
+          ", 
+          {
+       "name": ["street", "way", "road", "path", "highway"],
+       "location": "front",
+       "handshape": {
+         "dominant": "B",
+         "passive": "B" 
+         },
+       "palm-orientation": {
+         "dominant": "inside",
+         "passive": "inside"  },
+         "movement": "away",
+         "example": "https://www.signschool.com/terms/signs/1429/street/"
+          },
+          "back and forth/commute, train/railroad, airplane/airport/fly, motorcycle, ship, boat, wagon/carriage/chariot/buggy"
+        ]
+        }

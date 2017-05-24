@@ -1,0 +1,519 @@
+  {
+    "words": {
+      "family": [
+        {
+          "name": [
+            "male",
+            "man"
+          ],
+          "location": "forehead",
+          "handshape": {
+            "dominant": "5",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/5665/man/"
+        },
+        {
+          "name": [
+            "female",
+            "woman",
+            "lady"
+          ],
+          "location": "forehead",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/3o6ZtcFC8MooG0b0aI/giphy.gif?response_id=5924b8322262fee055943e49"
+        },
+        {
+          "name": "boy",
+          "location": "forehead",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/552/boy/"
+        },
+        {
+          "name": "girl",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/511/girl/"
+        },
+        {
+          "name": "son",
+          "location": "forehead to front",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/3o6ZsSYHb0Agx4AIhO/giphy.gif?response_id=5924becd269a194098e46e42"
+        },
+        {
+          "name": "daughter",
+          "location": "cheek to front",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media0.giphy.com/media/l0HlLz18wGrft14u4/giphy.gif?response_id=5924bf57cdc5c008a63b4a0e"
+        },
+        {
+          "name": [
+            "father",
+            "dad",
+            "daddy"
+          ],
+          "location": "forehead",
+          "handshape": {
+            "dominant": "5",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/2/father/"
+        },
+        {
+          "name": [
+            "mother",
+            "mom",
+            "mommy"
+          ],
+          "location": "chin",
+          "handshape": {
+            "dominant": "5",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/5/mother/"
+        },
+        {
+          "name": [
+            "grandfather",
+            "granddad",
+            "granddaddy"
+          ],
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/6/granddaddy/"
+        },
+        {
+          "name": [
+            "grandmother",
+            "grandma"
+          ],
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/7/grandmother/"
+        },
+        {
+          "name": "brother",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/l0MYKdiFKjnDFI65y/giphy.gif?response_id=5925be6a8103a806ce3f52f2"
+        },
+        {
+          "name": "sister",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/3o7TKKYQk05pQ2ZQA0/giphy.gif"
+        },
+        {
+          "name": "marry",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/l3vR3ofOHmRykk0qk/giphy.gif"
+        },
+        {
+          "name": "husband",
+          "location": "forehead to front",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "down",
+            "passive": "up"
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/6416/husband/"
+        },
+        {
+          "name": "wife",
+          "location": "cheek to front",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "down",
+            "passive": "up"
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/6415/wife/"
+        },
+        {
+          "name": "engagement (to be married)",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/l3vRbTxZVedAO9eBW/giphy.gif"
+        },
+        {
+          "name": "wedding",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/511/girl/"
+        },
+        {
+          "name": "divorce",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/511/girl/"
+        },
+        {
+          "name": "in-law",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/511/girl/"
+        },
+        {
+          "name": [
+            "stepmother",
+            "stepfather"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/l0HlCTmJbZOk7QpCo/giphy.gif"
+        },
+        {
+          "name": "uncle",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/3o6ZsVUxWfcT162CyY/giphy.gif"
+        },
+        {
+          "name": "aunt",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/3o6Ztdukuyn481ZQLC/giphy.gif"
+        },
+        {
+          "name": "nephew",
+          "location": "temple",
+          "handshape": {
+            "dominant": "N",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "front",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/3o6ZsV47pwQgtVD40U/giphy.gif"
+        },
+        {
+          "name": "niece",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "N",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/3o6ZtfeNT5ycd8tA64/giphy.gif#0-grid1"
+        },
+        {
+          "name": "cousin",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ["https://media1.giphy.com/media/3o6Zthv2cM89QUhxbq/giphy.gif#0-grid1", "https://media4.giphy.com/media/l3q2soJHmu96McKOc/giphy.gif#1-grid1"]
+        },
+        {
+          "name": "family",
+          "location": "cheek",
+          "handshape": {
+            "dominant": "A",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media2.giphy.com/media/l0HlPEVDldKdcRAsM/giphy.gif?response_id=5925c714972aa57291979b3e"
+        },
+        {
+          "name": [
+            "baby",
+            "infant",
+            "child"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/l0MYzXSo9S33FVYRi/giphy.gif#5-grid1"
+        },
+        {
+          "name": [
+            "child",
+            "children"
+          ],
+          "location": "front",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "down",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/3oz8xTrehRXtvR3P4A/giphy.gif"
+        },
+        {
+          "name": "kid",
+          "location": "nose",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/l0MYDA1hqpy40SYdq/giphy.gif#1-grid1"
+        },
+        {
+          "name": "twins",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "adults",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media1.giphy.com/media/3o7TKPJ4kGbN3fCM4E/giphy.gif#0-grid1"
+        },
+        {
+          "name": "parents",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media3.giphy.com/media/l0Hlwyd4t9KvamU4o/giphy.gif#0-grid1"
+        },
+        {
+          "name": [
+            "generation",
+            "descendants",
+            "ancestors",
+            "posterity"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "couple",
+          "location": "front",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://www.signschool.com/terms/signs/199/couple/"
+        }
+      ]
+    }
+  }
