@@ -1,44 +1,20 @@
    {
-    "signs": [ 
+ "words": 
+        {
+        "family": [ 
           {
-       "name": "street",
-       "location": "front",
-       "handshape": {
-         "dominant": "B",
-         "passive": "B" 
-         },
-       "palm-orientation": {
-         "dominant": "inside",
-         "passive": "inside"  },
-         "movement": "away-front",
-          },
-          {
-      "name": "abandon",
-      "location": "front",
-      "handshape": {
-        "dominant": "5",
-        "passive": "5"
-      },
-      "palm-orientation": {
-        "dominant": "inside",
-        "passive": "outside"
-      },
-      "movement": "away-side",
-         }
-  ], 
-    "family-signs": [
-            {
       "name": ["male", "man"],
       "location": "forehead",
       "handshape": {
-        "dominant": "",
+        "dominant": "5",
         "passive": ""
       },
       "palm-orientation": {
-        "dominant": "",
+        "dominant": "side",
         "passive": ""
       },
       "movement": "", 
+      "example": "https://www.signschool.com/terms/signs/5665/man/"
          }, 
          {
       "name": ["female", "woman", "lady"],
@@ -52,12 +28,459 @@
         "passive": ""
       },
       "movement": "", 
+      "example": "https://media1.giphy.com/media/3o6ZtcFC8MooG0b0aI/giphy.gif?response_id=5924b8322262fee055943e49"
          }
-    ],
-    "words":
       {
-        "family": [
-          "boy, girl, son, daughter, father/dad/daddy, mother/mom/mommy, grandfather/granddad/granddaddy, grandmother/grandma, brother, sister, marry, husband, wife, engagement (to be married), wedding, divorce, in-law, stepmother/stepfather/etc, uncle, aunt, nephew, niece, cousin, family, baby/infant/child, child/children, kid (informal), twins, adults, parents, generation/descendants/ancestors/posterity, couple"
+      "name": "boy",
+      "location": "forehead",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/552/boy/" 
+         }, 
+         {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "son",
+      "location": "forehead to front",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://media1.giphy.com/media/3o6ZsSYHb0Agx4AIhO/giphy.gif?response_id=5924becd269a194098e46e42" 
+         },
+           {
+      "name": "daughter",
+      "location": "cheek to front",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://media0.giphy.com/media/l0HlLz18wGrft14u4/giphy.gif?response_id=5924bf57cdc5c008a63b4a0e" 
+         },
+           {
+      "name": ["father", "dad", "daddy"],
+      "location": "forehead",
+      "handshape": {
+        "dominant": "5",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/2/father/" 
+         },
+           {
+      "name": ["mother", "mom", "mommy"],
+      "location": "chin",
+      "handshape": {
+        "dominant": "5",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/5/mother/" 
+         },
+           {
+      "name": ["grandfather", "granddad", "granddaddy"], 
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/6/granddaddy/" 
+         },
+           {
+      "name": ["grandmother", "grandma"],
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/7/grandmother/" 
+         },
+           {
+      "name": "brother",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "" 
+         },
+           {
+      "name": "sister",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+           {
+      "name": "girl",
+      "location": "cheek",
+      "handshape": {
+        "dominant": "A",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "side",
+        "passive": ""
+      },
+      "movement": "",
+      "example": "https://www.signschool.com/terms/signs/511/girl/" 
+         },
+
+
+          " marry, husband, wife, engagement (to be married), wedding, divorce, in-law, stepmother/stepfather/etc, uncle, aunt, nephew, niece, cousin, family, baby/infant/child, child/children, kid (informal), twins, adults, parents, generation/descendants/ancestors/posterity, couple"
         ],
         "pronouns-question-words-endings": [
           "I, We/Us, You, They/Them/Those/These, This, My/Mine, His/Her/Hers, Their/Theirs, Our, Your, Your Own, Self/Myself, Ourselves, Yourself/Himself/Herself/Themselves/Itself, Each/every, someone/somebody/something, any, anyone/anybody, anything, everybody/everyone, other/another, each other/one another/associate/socialize/fellowship/interact, that, who, which, whether, how, what, why, when, where, whatever/whoever/etc, a/an/the (only used in manually coded english systems, -er, -est, person ending, past tense (finished), un-/im-/in-/dis-, pre-, post-"
@@ -73,8 +496,92 @@
         "people-occupations-money": ["people, person/personal, individual, friend, group/class/community/organization/department/society/team, character/role, neighbor, neighborhood, sweetheart/girlfriend/boyfriend, bachelor, scouts, police/cop/security, thief/robber, hypocrite/imposter, soldier/army, sailor, war/battle, king/queen/prince/princess/emperor, kingdom, crown/diadem, reign/rule/control/run/in charge of/conduct/manage/govern/directing/discipline/reins, captain/chairman/officer/boss, president/superintendent, principal, assistant/aide, secretary, treasurer, work/labor/function, business, duty, busy, engagement/appointment/reservation, situation/environment/circumstance, opportunity, hire, fired, dismissed/laid off, build, machine/factory/motor/engine, paint, picture/photograph, camera/take a picture, print/publish/newspaper, buy/shopping/purchase, sell/store/sale, pay/payment, cost/price/charge/fine/tax, subscribe/draw (compensation), money/funds, rich/wealthy, poor, dollars, cents, coins, change, credit card, check, deposit, ATM card (swiping), profit/benefit/advantage, earn/income, spend/waste, save (as saving money or reserving something), owe/debt/due/afford, borrow/lend/loan, expensive, cheap, beg, broke"
         ],
         "physical-movement-travel": [
-          "stand, fall, fall (tumbling), slide/slip, lie/recline, getting under the covers, get up/arise, dance, jump, climb, kneel, drown/sink, sit/chair, restless/toss and turn, "
-        ]
+          "stand, fall, fall (tumbling), slide/slip, lie/recline, getting under the covers, get up/arise, dance, jump, climb, kneel, drown/sink, sit/chair, restless/toss and turn, rise/be seated, walk, run, escape/run away, march, kick, awkward/clumsy, stray/deviate/divert/off the point, pass, follow/follower/disciple, chase, lead/guide, depart/leave/withdraw", 
+           {
+      "name": ["abandon", "leave", "neglect"],
+      "location": "front",
+      "handshape": {
+        "dominant": "5",
+        "passive": "5"
+      },
+      "palm-orientation": {
+        "dominant": "inside",
+        "passive": "outside"
+      },
+      "movement": "away",
+      "example": ""
+         },
+         "arrive/reach/get to, hurry, travel/trip/journey, travel around/hunt, vacation/idle/holiday/retire, visit, suitcase, automobile/car/drive, ride, get in/get out/remove oneself, collision/accident, flat tire, gasoline, parking (and location or movement of a vehicle), traffic, 
+          ", 
+          {
+       "name": ["street", "way", "road", "path", "highway"],
+       "location": "front",
+       "handshape": {
+         "dominant": "B",
+         "passive": "B" 
+         },
+       "palm-orientation": {
+         "dominant": "inside",
+         "passive": "inside"  },
+         "movement": "away",
+         "example": "https://www.signschool.com/terms/signs/1429/street/"
+          },
+          "back and forth/commute, train/railroad, airplane/airport/fly, motorcycle, ship, boat, wagon/carriage/chariot/buggy"
+        ],
+        "opposites": [
+          "ask/request, question, answer/reply/respond, in, out/outside, up, down, open, close/shut, good/well, bad, fast/quick/rapid/immediately/suddenly/right away, slow, with/accompany, without, long, short (in length)/soon/brief, tall, short (in height)/little/small, start/begin/commence, stop/cease/quit, participate/join, quit/resign, come, go/going/went/attend, first, last/final/end, lose/lost, find/discover, right (direction), left (direction), right/correct/proper/appropriate, wrong/mistake/error, easy/simple, difficult, can/could/possible/able/ability/capable, can't/couldn't, yes, no, before/in advance, after/thereafter/from now on, ahead, behind, positive/plus, negative/minus, improve, worsen/deteriorate, light/bright/clear/obvious, dark/dim, light outs/turn off the light, lights on/turn on the light, always/ever, never, adopt/assume/take up, drop, broad-minded/open-minded, narrow-minded, appear/show up/pop up, disappear/drop out, condense/summarize/abbreviate, expand/swell, collapse/breakdown/cave-in, set up"
+        ],
+        "location-direction": [
+          "to (as a preposition, delete this?), toward, from, on, above/over, below/beneath/under/basic/underlying, under, background, here/where, there, far, near/close to/approach/besides/next to, around/surrounding, center/middle, against/sue, through, across/crossing/over, away, before/in the presence of/to face, beyond, disappear/vanish/fade away/die/away/dissolve, gone/absent/missing, all gone, between, together, separate/apart, high/advanced/promotion, onward/on/forward/advance, among, corner, into/enter, north/south/west/east"
+        ],
+        "verbs-related-words-1": [
+          "make, break, must/necessary/need/ought/should/have to/supposed to, excuse/forgive/pardon/exempt/waive, wait, look/watch/observe/survey, predict/forecast/foresee/prophesy, notice/recognize/spot (detect), search/seek/look for/examine, allow/let/may/permit, maybe/may/perhaps/probably, try/attempt/effort, help/assist/aid, rehabilitation, do/did/done/does/activity/conduct/deeds, behavior, use/utilize, keep, careful, take care of/supervise, continue/endure/lasting/permanent/perservere/keep on, stay/remain/strong, take, accept, demand/require/takes, get/obtain, receive, give/distribute, change/adjust/adapt, become/grow/get, choose/choice/select/pick, appoint, welcome, invite, introduce, meeting/assemble/gather, scatter/spread, meet, completed/finished/done/ended/over, finished/already, have/has/had/possess, praise/applaud/clap/ovation, congratulate, celebrate/triumph/victory/festival/hail/hooray/anniversary, win, succeed/effective/finally, postpone/procrastination/delay/put off, send, call, happen/occur, result, willing, offer/present/propose/suggest/recommend/motion, exchange/trade/instead of/switch/replace/substitute, plan/arrange/prepare/in order/ready, investigate/inspect/research/examine/check, develop"
+        ], 
+        "verbs-related-words-2": [
+          "volunteer/apply, depend/rely, impress, emphasize, include/involve, analyze, blame/fault/accuse, innocent, encourage, push, force/compel, support/in favor of/advocate, reinforce, establish/founded/based on/set up, cancel/criticize/correct, urge/persuade/coax, avoid, put/move, move/movement, prevent/block, bother/interfere/disturb/interrupt, forbid, reject, fail/failure, flunk, line up, surrender/give up/yield/submission, conquer/overcome/defeat/beat, serve/servant/waiter, bring, carry, miss (fail to catch), miss (fail to meet)/cut, miss (feel the absence of), hide, rub, safe/save/rescue, free, deliver, liberty, independent, bound/bind, share, deny (self-denial), deny (to declare not to be true), tempt, steal, captured/catch, kill/slay/murder, persecute/tease/ruin/spoil/damage, destroy/demolish/damage, warn, punish/penalty, spank, hit/impact/strike, beating, defend/protect/guard, shield/shelter, reflect, lock, stuck/trapped, turn (around), cover, cover, cause, bet, mesh/fit together/fall in place/merge/blend/integrate/work out, match/fit"
+        ],
+        "quality-kind-condition": [
+          "beautiful/pretty/lovely/gorgeous, wonderful/marvelous/great/fantastic/a wonder, interesting, boring/tedious/dull, same/alike/like/similar/uniform/standard/in common, different/differ, opposite/oppose/enmity/at odds/contrary, parallel, variety/various/diverse/etc, kind (variety), exact/precise, perfect/perfection, better/rest, general (as opposed to specific), specific/point, neutral, confusion/mixed up, vague/obscure/blurry, important/worth/worthy/precious/valuable/merit/significant, worthless, famous, prominent/chief/high, special/exceptional/except/unique/outstanding, fine, polite/courteous/manners/fancy/formal/elegant, clean/nice, dirty/filthy, new, strong/powerful/mighty/authority/energy, weak/feeble, lazy, ugly, true/truly/real/really/actual/sure/genuine/indeed, false/artificial/fake, lie, honest/truth, secret/private/confidential, fine (in small particles like sand), rough/scratch/rugged, smooth, smooth/fluent, sharp, hard, soft, medium, flexible, hot/heat, cold, warm, wet, dry, shining, deep, quiet/calm/still/tranquil/serene, noisy/sound/loud, vibration, awful/fearful/terrible/dreadful/horrible, danger, funny/humorous, fun, favorite, lucky, pet/spoiled (favored), cute, odd/strange, curious, color, red, pink, orange, blue/green/yellow/purple, tan/brown, white, black, gray"
+        ],
+        "quantity-size-degree": [
+          "and, all/whole, none/no, nothing, many/lots, few/several, both, some/part/portion, half, more, most, almost/nearly, full/fill, full/fed up, enough/plenty/sufficient/adequate, overflow/running over, little/bit/slightly, small/little, large/great/big/enormous/huge/immense, very, much/a lot/lots, wide/broad, narrow, width, measure, equal/fair, heavy, light, about (concerning, in connection with), about (approximately, around), than, too/also, limit/restrict, above/over/exceed/more than/too much, below/under/less than, decrease/less/reduce/diminish/lower, increase/a raise/gain weight/take off weight, weigh/weight, empty/vacant/bare/naked/bald/blank, crowded/crushed, as, proportion, count/accounting, total/sum/altogether, percent/interest, add, subtract/remove/deduct/eliminate, divide, figure/arithmetic/multiply/worse, mathematics/algebra/calculus/geometry/statistics/trigonometry"
+        ],
+        "communication-government": [
+          "thank/thank you/you're welcome, conversation/talk/communicate/dialogue/discussion/interview, speak/say/tell/speech, announce/proclaim/declare, command/order, voice/vocal, whisper, hello/hi, listen/hear, speechreading/lipreading/oral, signs (the language of), fingerspelling/spell, simultaneous communication, total communication, interpret, translate, captions/closed-captioned, explain/describe/define, story, discuss/argue, debate, quarrel, exaggerate, bawl out, insult, mock/scorn/ridicule, scold, scream/shout/cry out/roar, gossip, expression (facial), show/reveal/for example, lecture/speech/testimony, letter/mail, e-mail, correspondence, text/texting, stamp, video phones (VP), advertise/publicize, telephone/phone/call, telegram, newspaper, television, radio, movie/film, videotape, book, magazine/pamphlet/brochure/leaflet, page/look it up, copy, seal/stamp, judge/trial/court, law/legislation/lawyer/attorney, commandments/constitution/commands, rules/regulations, principles/parliamentary/policy, will, testament, government/governor, politics/political, federal, vow/swear/oath/loyal, promise, vote/election, second, member/board/senate/congress/legislature, democrat/republican, amend, all in favor"
+        ],
+        "education": [
+          "school, college, institution/institute/residential school, teach/instruct/educate, eudcation, learn/students, study, practice/training, library, read, write, language, grammar, sentence, word, vocabulary, paragraph, chapter, line, quote/theme/title/subject/topic, idiom, period/decimal point/comma/semicolon/colon/exclamation point/check mark/apostrophe/therefore, examination/test/quiz, schedule, curriculum, course, lesson, dictionary, project, program, process/procedure/progress/progressive, major/speciality/specialize/field/area/line, minor, profession/professional, graduate/graduation, diploma/degree, license/certificate, certify, workshop, audiology, psychology, history, science/chemistry/experiment/biology, art/drawing/design, drama/performance/acting/play/theater, sing/song/music, poetry, rhythm, Gallaudet, Preparatory student, freshman/sophomore/junior/senior, leaving college/drop out, graduate student, mainstream, doctor"
+        ],
+        "misc-nouns": [
+          "thing, place/area, list, name, name/call, signature/sign, sign/poster, posting a notice/bulletin board, bells/clapper striking a bell/bell rung by pulling a rope/handbells/dinner bell/doorbell, alarm clock/fire alarm, light flashing, elevator, flag, jail/prison/bars/cage, fire/burn, insurance, building, house, city/town/village/community, tent, camp, foundation, bridge, fireworks, magic, stage, ticket, gift/reward/present/contribution (also used for give), box, collection, doll, string/thread/line, rope, wood/saw, paper, rubber, steel, chain, diamond, gold, silver, image/form/statue/idol/shape, bury/grave, funeral, cigarette, cigar, smoking, smoking (weed), electricity/physics, musical instruments (violin/orchestra, flute, horn, accordion, guitar, trombone, harp, piano, drums)"
+        ],
+        "nature": [
+          "spring/grow, summer, fall/autumn, winter/cold/chilly, earth/terrestrial, world, universe, nature/natural/naturally/normal, sky/heavens, sun, sunshine, moon, star, land/field, water, ice/freeze, weather, pleasant/cool, breeze, rain, snow, flood, rainbow, wind, lightning, thunder, earthquake, cloud/storm, shadow, river/flow, ocean/sea, fountain/spring, island, tree/forest/woods, rock/stone, mountain/hill, valley, grass, flower, bloom/blossom, garden, plant/sow, hoeing/gardening, farm/country (rural), harvest/reap, hay"
+        ],
+        "body-medicine-health": [
+          "body/physical, head, face/look, eye, mouth, lips, nose, teeth, tongue, arm, hands, feet, bones, beard, beard (long), ear/hear/sound, hearing (a hearing person), deaf, hard of hearing, hearing aid, cochlear implant, see/sight/vision, blind, glasses, touch/dwell on, taste, smell/fragnance, life, live/address/alive, born/birth/birthday, die/death/perish, breathe/breath, rest, sleep, awaken/wake up, young/youthful, old/age, crippled (offensive), tired/weary/exhausted, pale, thin/lean/gaunt, fat/obese/chubby/plump, health/well/heal/whole, sick/ill/disease, pain/ache/hurt, soreness, nervous, sweat/perspire, upset, vomit, dizzy, faint, temperature/thermometer, examination (physical)/checkup, hospital, infirmary, patient, doctor/physician, medical, psychiatry/psychiatrist, nurse, dentist, operation/cut/incision/surgery, medicine/prescription, poison, injection/shot/hypodermic, band-aid, pills/taking a pill, blood/bleed/hemorrhage, vein, heart, heartbeat, heart attack, pneumonia/bronchitis, cough, a cold/handkerchief/kleenex/tissue, mumps, measles, menstruation/period, breast, pregnant, abortions"
+        ],
+        "home-furniture-clothing": [
+          "home, dormitory, room/office, kitchen, window, floor, door, gate, key, knife, fork, spoon, porcelain/china/glass/dishes, plate, cup, glass, wash dishes, napkin, furniture, table, chair/swing/rocking chair/rocker, bed, drawer, blanket, drapes, toilet/bathroom, soap, mirror, toothbrush/brushing teeth, shave, bathe/bath, shower, shampoo, scissors/cut, haircut, tear/rip, sew, sewing machine, button, basket, light bulb/a small light, candle, umbrella, tie (a knot), dye, wash, hang up clothes (on a rod), ironing, washing machine, dryer, refrigerator, freezer, living room, dining room, bedroom, rec room, laundry, fireplace, apartment, condo, air conditioning, patio, coat, clothing/clothes/dress, blouse/jacket, collar, skirt, gown, slacks/trouser/pants, hat, gloves, shoes, socks/stockings/hose, necktie, bow tie, pocketbook/hangbag/purse"
+        ],
+        "food-related-words": [
+          "eat/food, drink, hungry/crave/starved, thirsty, swallow, feed, delicious, breakfast, lunch, dinner, restaurant, fry/cook, boil/cook, bake/oven, bread, salt, pepper, sugar/sweet, sour/bitter, milk, coffee, tea, cream, butter, jelly/jam, cheese, meat, chicken, sausage, bologna, fish, bacon, egg, toast, sandwich, hamburger, onion, pickle, tomato, mayonnaise, french fries, ketchup, vinegar, sauce/dressing, syrup, pizza, spaghetti, soup, cracker, potato, gravy/greasy/oil, cabbage, corn, salad, fruit, apple, banana, orange, lemon, peach, pear, grapes, raisins, melon/watermelon/pumpkin, pineapple, berries, blueberries/blackberries/cherry, strawberry, coconut, dessert, pie, ice cream, chocolate, vanilla, cake, cookie/biscuit, doughnut, soda/pop, popcorn, candy, nuts, chewing gum, drink (liquor), drunk, wine, whiskey/liquor, beer"
+        ],
+        "sports-recreation": [
+          "football, baseball/softball, lacrosse, basketball, volleyball, soccer, boxing/fighting, wrestling, hockey, golf, tennis, ping-pong/table tennis, skiing, ice skating, snowboarding, roller skating, in-line skating, bowling, pool/billiards, bicycle, horseback riding, archery, swimming, rowing, canoeing, game/challenge, tournament, olympics, fishing, hunting/shoot/gun/rifle, throw, jogging, exercise, race/contest/rivalry/competition, play (recreation), party, playing cards"
+        ],
+        "countries-cities-states": [
+          "nation/national, international, international sign, country, foreign, america, native american, indigenous, canada, mexico, europe, england, scotland, ireland, france, spain, germany, italy, roman, greece, holland/dutch, sweden, norway, denmark, finland, russia, communism, switzerland, israel, egypt, turkey, africa, australia, india, china, chinese, japan, korea, philippine islands, filipino, atlanta, baltimore, boston, chicago, detroit, milwaukee, minneapolis, philadelphia, pittsburgh, alabama, alaska, arizona, arkansas, california, colorado, connecticut, delaware, florida, georgia, hawaii, idaho, illinois, indiana, iowa, kansas, kentucky, lousiana, maine, maryland, massachusetts, michigan, minnesota, mississippi, missouri, montana, nebraska, nevada, new hampshire, new jersey, new mexico, new york, new york city, north carolina, north dakota, ohio, oklahoma, oregon, pennsylavania, rhode island, south carolina, south dakota, tennessee, texas, utah, vermont, virginia, washington, washington d.c., west virginia, wisconsin, wyoming"
+        ], 
+        "animals": [
+          "animal, dog, cat, horse, mule/donkey, cow, buffallo/bison, sheep, shepherd, lamb, goat, pig, mouse, rat, rabbit/bunny/hare, squirrel, skunk, bird/chicken, chicken, duck, rooster, turkey, eagle, owl, turtle, frog, fish, monkey, elephant, bear, lion, tiger, giraffee, deer/antlers/reindeer/moose, camel, kangaroo, fox, wolf, snake, butterfly, bee, spider, bugs/ants/insect, worm, fly, mosquito, wings, tail"
+        ], 
+        "religion": [
+          "catholic, jewish, protestant, baptist, episcopal, lutheran, methodist, presbyterian, quaker, religion, church, temple, rabbi, passover, preach/preacher/minister/pastor, priest/clergy/chaplain/minister, nun, ministry, mission/missionary, god, thee/thou, thine, trinity, jesus, bible, lord, christ, testament, chapter, verse, gospel, cross, crucify, resurrection/rose, ascension, heaven/celestial, angel/cherubim/seraphim, soul, spirit/ghost, commandments/commands, salvation/save/savior, redeem, pray/amen, worship/adore/amen, anoint, holy/hallowed, pure, righteous, bless, condemn, devil/satan/demon/mischevious, sin/evil/wicked, sacrifice, baptism/immersion, baptize/christen, glory, grace, hallelujah, revival, vision/prophetic, repent, altar, fast (refrain from eating), christmas, easter, hanukkah"
+        ], 
+        "numbers": [
+          1-99, 100, "thousand, million, dollars, cents, addresses, telephone numbers, years, fractions, ordinal numbers"
+        ], 
+        ""
       }
-
     }
