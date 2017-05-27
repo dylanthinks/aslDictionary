@@ -55,7 +55,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media3.giphy.com/media/l0HlM5HffraiQaHUk/giphy.gif#0-grid1"
         },
          {
           "name": ["mule", "donkey"],
@@ -69,7 +69,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media2.giphy.com/media/l0HlDWsrK09793vvG/giphy.gif#0-grid1"
         },
          {
           "name": "cow",
@@ -111,7 +111,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media1.giphy.com/media/1iLzGmydj4zIw1tm/giphy.gif#0-grid1"
         },
          {
           "name": "shepherd",
@@ -153,7 +153,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media2.giphy.com/media/l0HlBRwnyPrrCTJQI/giphy.gif#0-grid1"
         },
          {
           "name": "pig",
@@ -167,7 +167,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media4.giphy.com/media/3o6ZsU5Hsa3xmnfDa0/giphy.gif#0-grid1"
         },
          {
           "name": "mouse",
@@ -181,7 +181,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/d1FKOWwaaKrSB9XW/giphy.gif"
         },
          {
           "name": "rat",
@@ -195,7 +195,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media3.giphy.com/media/3o6Zt3EXuZ7xZ4jPuE/giphy.gif#0-grid1"
         },
          {
           "name": ["rabbit", "bunny", "hare"],
@@ -209,7 +209,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZsUwmai7jgqgh9K/giphy.gif"
         },
          {
           "name": "squirrel",
@@ -223,7 +223,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media2.giphy.com/media/l0HlBiNXAq9vRGS7m/giphy.gif#0-grid1"
         },
          {
           "name": "skunk",
@@ -251,7 +251,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6Zt8dU5n0SPNFeAE/giphy.gif"
         },
          {
           "name": "chicken",
@@ -265,7 +265,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media3.giphy.com/media/26hisADhtILiu1J3W/giphy.gif#0-grid1"
         },
          {
           "name": "duck",
@@ -279,13 +279,13 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/26gJAuQPIXUPECqFW/giphy.gif"
         },
          {
           "name": "rooster",
           "location": "",
           "handshape": {
-            "dominant": "",
+            "dominant": "3",
             "passive": ""
           },
           "palm-orientation": {
@@ -293,7 +293,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media2.giphy.com/media/l0HlCMpoSFamooEmc/giphy.gif#0-grid1"
         },
          {
           "name": "turkey",
@@ -307,7 +307,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": ["https://media.giphy.com/media/3o6Ztkrg0tVYRbvgWs/giphy.gif", "https://media.giphy.com/media/3o7TKSghAlFEiowq3u/giphy.gif"]
         },
          {
           "name": "eagle",
@@ -321,7 +321,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media2.giphy.com/media/3o6ZtiKBycj3TafNYI/giphy.gif#0-grid1"
         },
          {
           "name": "owl",
@@ -335,7 +335,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlHbz0FSpGVkJXi/giphy.gif"
         },
          {
           "name": "turtle",
@@ -349,7 +349,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": ["https://media0.giphy.com/media/l0HlN9IgYCYFA6wiQ/giphy.gif#1-grid1", "https://media1.giphy.com/media/3o6ZtiSXuiIZB1aD8k/giphy.gif#0-grid1"]
         },
          {
           "name": "frog",
@@ -363,7 +363,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlKl64lIvTjZ7QA/giphy.gif"
         },
          {
           "name": "fish",
@@ -377,7 +377,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlyD0aUlEMEqaQg/giphy.gif"
         },
          {
           "name": "monkey",
@@ -391,7 +391,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZtoejOuT1f7hWlW/giphy.gif"
         },
          {
           "name": "elephant",
@@ -405,7 +405,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/26gJzLY13fo24rp3W/giphy.gif"
         },
          {
           "name": "bear",
@@ -419,7 +419,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": ["https://media.giphy.com/media/l0HlMEDoIaALWCKbe/giphy.gif", "https://media.giphy.com/media/l0HlAvYTcdzSl2kc8/giphy.gif"]
         },
          {
           "name": "lion",
@@ -433,7 +433,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6Zt0dvGeYPMzu73G/giphy.gif"
         },
          {
           "name": "tiger",
@@ -447,7 +447,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlwogU35Lxf97tm/giphy.gif"
         },
          {
           "name": "giraffee",
@@ -475,7 +475,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlwFOmiVUw06jTi/giphy.gif"
         },
          {
           "name": "camel",
@@ -489,7 +489,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6Zt96g5g0dXKMBlm/giphy.gif"
         },
          {
           "name": "kangaroo",
@@ -517,7 +517,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6Zt75NDGTAIeydck/giphy.gif"
         },
          {
           "name": "wolf",
@@ -531,7 +531,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZsTMwAZzO22YDPa/giphy.gif"
         },
          {
           "name": "snake",
@@ -545,7 +545,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZtbhOXMb6zbnqZW/giphy.gif"
         },
          {
           "name": "butterfly",
@@ -559,7 +559,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlQdDiMuzCfSNVK/giphy.gif"
         },
          {
           "name": "bee",
@@ -573,7 +573,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZtpYgRQMWE5KNfW/giphy.gif"
         },
          {
           "name": "spider",
@@ -587,7 +587,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlAg0JM91OyJK8w/giphy.gif"
         },
          {
           "name": ["bugs", "ants", "insect"],
@@ -601,7 +601,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/3o6ZtqnbzvERZX3Vkc/giphy.gif"
         },
          {
           "name": "worm",
@@ -615,13 +615,13 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media.giphy.com/media/l0HlD5TXKhTIXbFhC/giphy.gif"
         },
          {
           "name": "fly",
           "location": "",
           "handshape": {
-            "dominant": "",
+            "dominant": "F-L-Y",
             "passive": ""
           },
           "palm-orientation": {
@@ -643,7 +643,7 @@
             "passive": ""
           },
           "movement": "",
-          "example": ""
+          "example": "https://media0.giphy.com/media/3o6ZsXp6rkyli4qYUg/giphy.gif#0-grid1"
         },
          {
           "name": "wings",
