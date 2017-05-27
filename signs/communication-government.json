@@ -2,7 +2,815 @@
  "words": 
         {
           "communication-government": [
-          "thank/thank you/you're welcome, conversation/talk/communicate/dialogue/discussion/interview, speak/say/tell/speech, announce/proclaim/declare, command/order, voice/vocal, whisper, hello/hi, listen/hear, speechreading/lipreading/oral, signs (the language of), fingerspelling/spell, simultaneous communication, total communication, interpret, translate, captions/closed-captioned, explain/describe/define, story, discuss/argue, debate, quarrel, exaggerate, bawl out, insult, mock/scorn/ridicule, scold, scream/shout/cry out/roar, gossip, expression (facial), show/reveal/for example, lecture/speech/testimony, letter/mail, e-mail, correspondence, text/texting, stamp, video phones (VP), advertise/publicize, telephone/phone/call, telegram, newspaper, television, radio, movie/film, videotape, book, magazine/pamphlet/brochure/leaflet, page/look it up, copy, seal/stamp, judge/trial/court, law/legislation/lawyer/attorney, commandments/constitution/commands, rules/regulations, principles/parliamentary/policy, will, testament, government/governor, politics/political, federal, vow/swear/oath/loyal, promise, vote/election, second, member/board/senate/congress/legislature, democrat/republican, amend, all in favor"
+            {
+          "name": ["thank", "thank you", "thanks"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["welcome", "you're welcome"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["conversation", "talk", "communicate", "dialogue", "discussion", "interview"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["speak", "say", "tell", "speech"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["announce", "proclaim", "declare"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["command", "order"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["voice", "vocal"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "whisper",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["hello", "hi"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["listen", "hear"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["speechreading", "lipreading", "oral"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "signs (the language of)",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": ["fingerspelling", "spell"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "simultaneous communication",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "total communication",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "interpret",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "translate",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": ["captions", "closed-captioned"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": ["explain", "describe", "define"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "story",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": ["discuss", "argue"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "debate",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "quarrel",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "exaggerate",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "bawl out",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "insult",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "mock/scorn/ridicule",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "scold",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "scream/shout/cry out/roar",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "gossip",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "expression (facial)",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "show/reveal/for example",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "lecture/speech/testimony",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["letter", "mail"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "e-mail",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "correspondence",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["text", "texting"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "stamp",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "video phones (VP)",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["advertise", "publicize"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": ["telephone", "phone", "call"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "telegram",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "newspaper",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "television",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "radio",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "movie/film",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "videotape",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "book",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ", magazine/pamphlet/brochure/leaflet",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ", page/look it up",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ", copy",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ", seal/stamp",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ["judge", "trial", "court"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        
+          " 
+         
+           , , 
+          
+          
+           
+          
+          law/legislation/lawyer/attorney, commandments/constitution/commands, rules/regulations, principles/parliamentary/policy, will, testament, 
+          government/governor, politics/political, federal, vow/swear/oath/loyal, promise, vote/election, second, member/board/senate/congress/legislature, 
+          democrat/republican, amend, all in favor"
         ]
         }
    }
