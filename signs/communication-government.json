@@ -367,7 +367,7 @@
           "example": ""
         },
         {
-          "name": "mock/scorn/ridicule",
+          "name": ["mock", "scorn", "ridicule"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -395,7 +395,7 @@
           "example": ""
         },
         {
-          "name": "scream/shout/cry out/roar",
+          "name": ["scream", "shout", "cry out", "roar"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -437,7 +437,7 @@
           "example": ""
         },
          {
-          "name": "show/reveal/for example",
+          "name": ["show", "reveal", "for example"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -451,7 +451,7 @@
           "example": ""
         },
          {
-          "name": "lecture/speech/testimony",
+          "name": ["lecture", "speech", "testimony"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -633,7 +633,7 @@
           "example": ""
         },
          {
-          "name": "movie/film",
+          "name": ["movie", "film"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -675,7 +675,7 @@
           "example": ""
         },
            {
-          "name": ", magazine/pamphlet/brochure/leaflet",
+          "name": ["magazine", "pamphlet", "brochure", "leaflet"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -689,7 +689,7 @@
           "example": ""
         },
            {
-          "name": ", page/look it up",
+          "name": ["page", "look it up"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -703,7 +703,7 @@
           "example": ""
         },
            {
-          "name": ", copy",
+          "name": "copy",
           "location": "",
           "handshape": {
             "dominant": "",
@@ -717,7 +717,7 @@
           "example": ""
         },
            {
-          "name": ", seal/stamp",
+          "name": ["seal", "stamp"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -745,7 +745,7 @@
           "example": ""
         },
            {
-          "name": "",
+          "name": ["law", "legislation", "lawyer", "attorney"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -759,7 +759,7 @@
           "example": ""
         },
            {
-          "name": "",
+          "name": ["commandments", "constitution", "commands"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -773,7 +773,7 @@
           "example": ""
         },
            {
-          "name": "",
+          "name": ["rules", "regulations"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -787,7 +787,7 @@
           "example": ""
         },
            {
-          "name": "",
+          "name": ["principles", "parliamentary", "policy"],
           "location": "",
           "handshape": {
             "dominant": "",
@@ -800,17 +800,188 @@
           "movement": "",
           "example": ""
         },
-        
-          " 
-         
-           , , 
-          
-          
-           
-          
-          law/legislation/lawyer/attorney, commandments/constitution/commands, rules/regulations, principles/parliamentary/policy, will, testament, 
-          government/governor, politics/political, federal, vow/swear/oath/loyal, promise, vote/election, second, member/board/senate/congress/legislature, 
-          democrat/republican, amend, all in favor"
+          {
+          "name": "will",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "testament",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["government", "governor"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["politics", "political"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "federal",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["vow", "swear", "oath", "loyal"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "promise",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["vote", "election"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "second",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["member", "board", "senate", "congress", "legislature"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": ["democrat", "republican"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "amend",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "all in favor",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        }
         ]
         }
    }

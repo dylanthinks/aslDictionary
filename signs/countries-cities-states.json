@@ -1,8 +1,1406 @@
-   {
- "words": 
+  {
+    "words": {
+      "countries-cities-states": [
         {
-          "countries-cities-states": [
-          "nation/national, international, international sign, country, foreign, america, native american, indigenous, canada, mexico, europe, england, scotland, ireland, france, spain, germany, italy, roman, greece, holland/dutch, sweden, norway, denmark, finland, russia, communism, switzerland, israel, egypt, turkey, africa, australia, india, china, chinese, japan, korea, philippine islands, filipino, atlanta, baltimore, boston, chicago, detroit, milwaukee, minneapolis, philadelphia, pittsburgh, alabama, alaska, arizona, arkansas, california, colorado, connecticut, delaware, florida, georgia, hawaii, idaho, illinois, indiana, iowa, kansas, kentucky, lousiana, maine, maryland, massachusetts, michigan, minnesota, mississippi, missouri, montana, nebraska, nevada, new hampshire, new jersey, new mexico, new york, new york city, north carolina, north dakota, ohio, oklahoma, oregon, pennsylavania, rhode island, south carolina, south dakota, tennessee, texas, utah, vermont, virginia, washington, washington d.c., west virginia, wisconsin, wyoming"
+          "name": ["nation", "national"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "international",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "international sign",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "country",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "foreign",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "america",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "native american",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "indigenous",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "canada",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "mexico",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "europe",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "england",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "scotland",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "ireland",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "france",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "spain",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "germany",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "italy",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "roman",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "greece",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": ["holland", "dutch"],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "sweden",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "norway",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "denmark",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "finland",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "russia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "egypt",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "switzerland",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "israel",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "turkey",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "africa",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "australia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "india",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "china",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "chinese",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "japan",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "korea",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "philippine islands",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "filipino",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "atlanta",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "baltimore",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "boston",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "chicago",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "detroit",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "milwaukee",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "minneapolis",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "philadelphia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "pittsburgh",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "alabama",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "alaska",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "arizona",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "arkansas",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "california",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "colorado",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "connecticut",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "delaware",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "florida",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "georgia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "hawaii",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "idaho",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "illinois",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "indiana",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "iowa",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "kansas",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "kentucky",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "lousiana",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "maine",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "maryland",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "massachusetts",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "michigan",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "minnesota",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "mississippi",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "missouri",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "montana",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "nebraska",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "nevada",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "new hampshire",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "new jersey",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "new mexico",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "new york",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "new york city",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "north carolina",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "north dakota",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "ohio",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "oklahoma",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "oregon",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "pennsylavania",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "rhode island",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "south carolina",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+           {
+          "name": "south dakota",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+          {
+          "name": "tennessee",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "texas",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "utah",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "vermont",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "virginia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "washington",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "washington d.c.",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "west virginia",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "wisconsin",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+         {
+          "name": "wyoming",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        }
         ]
         }
    }
