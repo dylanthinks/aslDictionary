@@ -1,8 +1,861 @@
-   {
- "words": 
+  {
+    "words": {
+      "education": [
         {
-          "education": [
-          "school, college, institution/institute/residential school, teach/instruct/educate, eudcation, learn/students, study, practice/training, library, read, write, language, grammar, sentence, word, vocabulary, paragraph, chapter, line, quote/theme/title/subject/topic, idiom, period/decimal point/comma/semicolon/colon/exclamation point/check mark/apostrophe/therefore, examination/test/quiz, schedule, curriculum, course, lesson, dictionary, project, program, process/procedure/progress/progressive, major/speciality/specialize/field/area/line, minor, profession/professional, graduate/graduation, diploma/degree, license/certificate, certify, workshop, audiology, psychology, history, science/chemistry/experiment/biology, art/drawing/design, drama/performance/acting/play/theater, sing/song/music, poetry, rhythm, Gallaudet, Preparatory student, freshman/sophomore/junior/senior, leaving college/drop out, graduate student, mainstream, doctor"
-        ]
+          "name": "school",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "college",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "institution",
+            "institute",
+            "residential school"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "teach",
+            "instruct",
+            "educate"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "education",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "learn",
+            "students"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "study",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "practice",
+            "training"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "library",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "read",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "write",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "language",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "grammar",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "sentence",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "word",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "vocabulary",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "paragraph",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "chapter",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "line",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "quote",
+            "theme",
+            "title",
+            "subject",
+            "topic"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "idiom",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "period",
+            "decimal point",
+            "comma",
+            "semicolon",
+            "colon",
+            "exclamationation point",
+            "check mark",
+            "apostrophe",
+            "therefore"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "examination",
+            "test",
+            "quiz"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "schedule",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "curriculum",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "course",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "lesson",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "dictionary",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "project",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "program",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "process",
+            "procedure",
+            "progress",
+            "progressive"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "major",
+            "speciality",
+            "specialize",
+            "field",
+            "area",
+            "line"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "minor",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "profession",
+            "professional"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "graduate",
+            "graduation"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "diploma",
+            "degree"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "license",
+            "certificate"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "certify",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "workshop",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "audiology",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "psychology",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "history",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "science",
+            "chemistry",
+            "experiment",
+            "biology"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "art",
+            "drawing",
+            "design"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "drama",
+            "performance",
+            "acting",
+            "play",
+            "theater"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "sing",
+            "song",
+            "music"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "poetry",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "rhythm",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "Gallaudet",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "Preparatory student",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "freshman",
+            "sophomore",
+            "junior",
+            "senior"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "leaving college",
+            "drop out"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "graduate student",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "mainstream",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "doctor",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
         }
-   }
+      ]
+    }
+  }
