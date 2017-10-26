@@ -1,8 +1,591 @@
-   {
- "words": 
+  {
+    "words": , , , toast, sandwich, hamburger, onion, pickle, tomato, mayonnaise, french fries, ketchup, vinegar, sauce/dressing, syrup, pizza, spaghetti, soup, cracker, potato, gravy/greasy/oil, cabbage, corn, salad, fruit, apple, banana, orange, lemon, peach, pear, grapes, raisins, melon/watermelon/pumpkin, pineapple, berries, blueberries/blackberries/cherry, strawberry, coconut, dessert, pie, ice cream, chocolate, vanilla, cake, cookie/biscuit, doughnut, soda/pop, popcorn, candy, nuts, chewing gum{
+      "food-related-words": [
         {
-          "food-related-words": [
-          "eat/food, drink, hungry/crave/starved, thirsty, swallow, feed, delicious, breakfast, lunch, dinner, restaurant, fry/cook, boil/cook, bake/oven, bread, salt, pepper, sugar/sweet, sour/bitter, milk, coffee, tea, cream, butter, jelly/jam, cheese, meat, chicken, sausage, bologna, fish, bacon, egg, toast, sandwich, hamburger, onion, pickle, tomato, mayonnaise, french fries, ketchup, vinegar, sauce/dressing, syrup, pizza, spaghetti, soup, cracker, potato, gravy/greasy/oil, cabbage, corn, salad, fruit, apple, banana, orange, lemon, peach, pear, grapes, raisins, melon/watermelon/pumpkin, pineapple, berries, blueberries/blackberries/cherry, strawberry, coconut, dessert, pie, ice cream, chocolate, vanilla, cake, cookie/biscuit, doughnut, soda/pop, popcorn, candy, nuts, chewing gum, drink (liquor), drunk, wine, whiskey/liquor, beer"
-        ]
-        }
-   }
+          "name": [
+            "eat",
+            "food"
+          ],
+          "location": "mouth",
+          "handshape": {
+            "dominant": "0",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "face",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media.giphy.com/media/26DOtLVBDesaOnTJm/giphy.gif"
+        },
+        {
+          "name": [
+            "drink"
+          ],
+          "location": "chin",
+          "handshape": {
+            "dominant": "C",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": "https://media0.giphy.com/media/l4JyRPtPMj6CksKf6/giphy.gif"
+        },
+        {
+          "name": [
+            "hungry",
+            "crave",
+            "starved"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "C",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "thirsty"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "d",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "swallow"
+          ],
+          "location": "throat",
+          "handshape": {
+            "dominant": "D",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "feed"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "delicious"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "breakfast"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "lunch"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "dinner"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "restaurant"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "fry",
+            "cook"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "boil",
+            "cook"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "bake",
+            "oven"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "bread"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "salt"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "pepper"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "sugar",
+            "sweet"
+          ],
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": [
+            "sour",
+            "bitter"
+          ],
+          "location": "chin",
+          "handshape": {
+            "dominant": "1",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "side",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        {
+          "name": "milk",
+          "location": "",
+          "handshape": {
+            "dominant": "",
+            "passive": ""
+          },
+          "palm-orientation": {
+            "dominant": "",
+            "passive": ""
+          },
+          "movement": "",
+          "example": ""
+        },
+        "name": "meat",
+        "location": "",
+        "handshape": {
+          "dominant": "",
+          "passive": ""
+        },
+        "palm-orientation": {
+          "dominant": "",
+          "passive": ""
+        },
+        "movement": "",
+        "example": ""
+      },
+      "name": "chicken",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "",
+      "example": ""
+    },
+    "name": "sausage",
+    "location": "",
+    "handshape": {
+      "dominant": "",
+      "passive": ""
+    },
+    "palm-orientation": {
+      "dominant": "",
+      "passive": ""
+    },
+    "movement": "",
+    "example": ""
+  },
+  "name": "bologna",
+  "location": "",
+  "handshape": {
+    "dominant": "",
+    "passive": ""
+  },
+  "palm-orientation": {
+    "dominant": "",
+    "passive": ""
+  },
+  "movement": "",
+  "example": ""
+},
+"name": "fish",
+"location": "",
+"handshape": {
+  "dominant": "",
+  "passive": ""
+},
+"palm-orientation": {
+  "dominant": "",
+  "passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "bacon",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "egg",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "drink (liquor)",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "drunk",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "wine",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": ["whiskey",
+  "liquor"],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": "beer",
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+},
+"name": [],
+"location": "",
+"handshape": {
+"dominant": "",
+"passive": ""
+},
+"palm-orientation": {
+"dominant": "",
+"passive": ""
+},
+"movement": "",
+"example": ""
+}
+ 

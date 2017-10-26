@@ -1,7 +1,638 @@
     {
  "words": 
         {
-  "emotion-feeling": ["love/dear, i love you, hate/detest/despise, like, please/pleasure/enjoy/like, happy/glad/rejoice/joy, sad/dejected/sorrowful/downcast, laugh, smile/cheerful/pleasant/friendly, sorry/regret/apologize, cry/weep/tears, cross/grouchy, anger/wrath, boiling/burning (in anger), blowup/blowing one's top, peace, afraid/scared/frightened/terrify, fear/dread, suffering/agony, patient/endure/bear/suffer/put up with/stand, grief/crushed, shocked/dumbfounded, appreciate, feel/sensation, mercy/pity/compassion/sympathy, feel hurt, excited/thrilled/stimulated, emotion, discouraged/disappointed, lonely/lonesome, inspired, depressed, enthusiastic/eager/zealous/industrious/anxious, frustrated, humble/meek, ashamed/shame, embarrass/bashful/shy, blush, flirt, kiss, heart, valentine, kind/gracious, character, personality, attitude, tough/rough/mean, want/desire/longing, don't want, wish, rather/prefer, comfortable/comfort, satisfy/content/relieved, complain/object/protest/grievance/gripe/mind, discontent/dissatisfied/disgusted/aggravate, pride/proud/arrogant, boast/brag, vain/vanity, selfish, jealous, envy, conscience/guilty, confess/admit, tend/tendency/inclined toward, revenge/get even, unfair/not fair, courageous/brave"
+  "emotion-feeling": [
+       {
+      "name": ["love", "dear"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "i love you",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["hate", "detest", "despise"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "like",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["please", "pleasure", "enjoy", "like"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": ["happy", "glad", "rejoice", "joy"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["sad", "dejected", "sorrowful", "downcast"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "laugh",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["smile", "cheerful", "pleasant", "friendly"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["sorry", "regret", "apologize"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": ["cry", "weep", "tears"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["cross", "grouchy"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["anger", "wrath"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["boiling", "burning (in anger)"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": ["blowup", "blowing one's top"],
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+            {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+         {
+      "name": "",
+      "location": "",
+      "handshape": {
+        "dominant": "",
+        "passive": ""
+      },
+      "palm-orientation": {
+        "dominant": "",
+        "passive": ""
+      },
+      "movement": "", 
+      "example": ""
+         }, 
+      " peace, afraid/scared/frightened/terrify, fear/dread, suffering/agony, patient/endure/bear/suffer/put up with/stand, grief/crushed, shocked/dumbfounded, appreciate, feel/sensation, mercy/pity/compassion/sympathy, feel hurt, excited/thrilled/stimulated, emotion, discouraged/disappointed, lonely/lonesome, inspired, depressed, enthusiastic/eager/zealous/industrious/anxious, frustrated, humble/meek, ashamed/shame, embarrass/bashful/shy, blush, flirt, kiss, heart, valentine, kind/gracious, character, personality, attitude, tough/rough/mean, want/desire/longing, don't want, wish, rather/prefer, comfortable/comfort, satisfy/content/relieved, complain/object/protest/grievance/gripe/mind, discontent/dissatisfied/disgusted/aggravate, pride/proud/arrogant, boast/brag, vain/vanity, selfish, jealous, envy, conscience/guilty, confess/admit, tend/tendency/inclined toward, revenge/get even, unfair/not fair, courageous/brave"
         ]
         }
     }
